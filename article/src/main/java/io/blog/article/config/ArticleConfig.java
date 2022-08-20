@@ -1,7 +1,7 @@
 /**
  * Created by IntelliJ IDEA.
  * User: Cangue.Jamba
- * Project name: microservices
+ * Project name: microservice-communication-using-eureka-server
  */
 package io.blog.article.config;
 
